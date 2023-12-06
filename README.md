@@ -13,6 +13,7 @@
   - [16787891](https://www.openstreetmap.org/relation/16787891)
 
 ## [Linia 4](https://www.openstreetmap.org/relation/15054640)
+  - Kierunek 1 (Igły -> Warszawska-Dworzec)
   - [15094149](https://www.openstreetmap.org/relation/15094149)
   - [15094150](https://www.openstreetmap.org/relation/15094150)
   - [15072101](https://www.openstreetmap.org/relation/15072101)
