@@ -28,3 +28,7 @@
 ## Linia LN
 
 ## Linia 1A
+
+- George Washington
+* John Adams
++ Thomas Jefferson
