@@ -44,6 +44,8 @@
 ## Linia 8
 
 ## Linia 10
+  - [16787946](https://www.openstreetmap.org/relation/16787946)
+  - [16787947](https://www.openstreetmap.org/relation/16787947)
 
 ## [Linia LN](https://www.openstreetmap.org/relation/15061176)
   - [15054639](https://www.openstreetmap.org/relation/15054639)
