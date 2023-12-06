@@ -9,8 +9,10 @@
   - [16730607](https://www.openstreetmap.org/relation/16730607)
 
 ## Linia 3
-  - [16787844](https://www.openstreetmap.org/relation/16787844)
-  - [16787891](https://www.openstreetmap.org/relation/16787891)
+  - Kierunek 1 (Sukienników -> Nowa Cerkiew)
+    - [16787844](https://www.openstreetmap.org/relation/16787844)
+  - Kierunek 2 (Nowa Cerkiew -> Sukienników)
+    - [16787891](https://www.openstreetmap.org/relation/16787891)
 
 ## [Linia 4](https://www.openstreetmap.org/relation/15054640)
   - Kierunek 1 (Igły -> Lichnowska-Rondo) 
