@@ -1,6 +1,8 @@
 # chojnice_public_transport
 
-## Linia 1
+## [Linia 1](https://www.openstreetmap.org/relation/15047986)
+  - [15047825](https://www.openstreetmap.org/relation/15047825)
+  - [15047724](https://www.openstreetmap.org/relation/15047724)
 
 ## Linia 2
   - [16730742](https://www.openstreetmap.org/relation/16730742)
