@@ -13,7 +13,7 @@
   - [16787891](https://www.openstreetmap.org/relation/16787891)
 
 ## [Linia 4](https://www.openstreetmap.org/relation/15054640)
-  - Kierunek 1 (Igły -> Lichnowska-Rondo) góra dół
+  - Kierunek 1 (Igły -> Lichnowska-Rondo) 
   - [15094149](https://www.openstreetmap.org/relation/15094149)
   - [15072101](https://www.openstreetmap.org/relation/15072101)
   - [15072102](https://www.openstreetmap.org/relation/15072102)
@@ -22,26 +22,23 @@
   - [15070292](https://www.openstreetmap.org/relation/15070292)
   - [15067430](https://www.openstreetmap.org/relation/15067430)
   - [15062426](https://www.openstreetmap.org/relation/15062426)
+  - [15062389](https://www.openstreetmap.org/relation/15062389)
+  - [15062333](https://www.openstreetmap.org/relation/15062333)
 
-  - Kierunek 2 (Lichnowska-Rondo -> Igły) dół góra
+  - Kierunek 2 (Lichnowska-Rondo -> Igły) 
   - [15094150](https://www.openstreetmap.org/relation/15094150)
   - [15070636](https://www.openstreetmap.org/relation/15070636)
   - [15070629](https://www.openstreetmap.org/relation/15070629)
   - [15070550](https://www.openstreetmap.org/relation/15070550)
   - [15067326](https://www.openstreetmap.org/relation/15067326)
   - [15066792](https://www.openstreetmap.org/relation/15066792)
+  - [15067313](https://www.openstreetmap.org/relation/15067313)
+  - [15058228](https://www.openstreetmap.org/relation/15058228)
  
   - Kierunek 3 (obie strony - do poprawki)
   - [15070226](https://www.openstreetmap.org/relation/15070226)
   - [15070192](https://www.openstreetmap.org/relation/15070192)
   - [15070159](https://www.openstreetmap.org/relation/15070159)
-
-
-
-  - [15062389](https://www.openstreetmap.org/relation/15062389)
-  - [15062333](https://www.openstreetmap.org/relation/15062333)
-  - [15067313](https://www.openstreetmap.org/relation/15067313)
-  - [15058228](https://www.openstreetmap.org/relation/15058228)
 
 ## [Linia 6](https://www.openstreetmap.org/relation/15051292)
   - [15050987](https://www.openstreetmap.org/relation/15050987)
