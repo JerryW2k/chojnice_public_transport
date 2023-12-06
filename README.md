@@ -47,7 +47,9 @@
   - [15050515](https://www.openstreetmap.org/relation/15050515)
   - [15050414](https://www.openstreetmap.org/relation/15050414)
 
-## Linia 7A
+## [Linia 7A](https://www.openstreetmap.org/relation/15050555)
+  - [15050536](https://www.openstreetmap.org/relation/15050536)
+  - [15050404](https://www.openstreetmap.org/relation/15050404)
 
 ## Linia 8
 
