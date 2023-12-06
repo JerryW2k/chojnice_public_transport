@@ -43,12 +43,15 @@
     [15070159](https://www.openstreetmap.org/relation/15070159)
 
 ## [Linia 6](https://www.openstreetmap.org/relation/15051292)
-  - [15050987](https://www.openstreetmap.org/relation/15050987)
-  - [15051280](https://www.openstreetmap.org/relation/15051280)
-  - [15051281](https://www.openstreetmap.org/relation/15051281)
-  - [15054242](https://www.openstreetmap.org/relation/15054242)
-  - [15051084](https://www.openstreetmap.org/relation/15051084)
-  - [15054134](https://www.openstreetmap.org/relation/15054134)
+  - Kierunek 1 (Chojnice -> Ciechocin)
+    - [15050987](https://www.openstreetmap.org/relation/15050987)
+    [15051281](https://www.openstreetmap.org/relation/15051281)
+    [15051084](https://www.openstreetmap.org/relation/15051084)
+
+  - Kierunek 2 (Ciechocin - > Chojnice)
+    - [15051280](https://www.openstreetmap.org/relation/15051280)
+    [15054242](https://www.openstreetmap.org/relation/15054242)
+    [15054134](https://www.openstreetmap.org/relation/15054134)
 
 ## [Linia 7](https://www.openstreetmap.org/relation/15050556)
   - [15050515](https://www.openstreetmap.org/relation/15050515)
