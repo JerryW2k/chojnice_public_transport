@@ -8,9 +8,8 @@
 
 ## Linia 4
 
-## Linia 6
-  - Główna relacja: https://www.openstreetmap.org/relation/15051292
-  - https://www.openstreetmap.org/relation/15050987
+## [Linia 6](https://www.openstreetmap.org/relation/15051292)
+  - [15050987](https://www.openstreetmap.org/relation/15050987)
   - https://www.openstreetmap.org/relation/15051280
   - https://www.openstreetmap.org/relation/15051281
   - https://www.openstreetmap.org/relation/15054242
