@@ -1,4 +1,4 @@
-# chojnice_public_transport
+# Chojnickie linie autobusowe
 
 ## [Linia 1](https://www.openstreetmap.org/relation/15047986)
   - [15047825](https://www.openstreetmap.org/relation/15047825)
