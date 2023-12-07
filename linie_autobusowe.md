@@ -1,5 +1,5 @@
 # Chojnickie linie autobusowe
-
+  - Kierunek 1 (Swornegacie -> Towarowa/Dworzec PKS/PKP)
 ## [Linia 1](https://www.openstreetmap.org/relation/15047986)
   - [15047825](https://www.openstreetmap.org/relation/15047825)
   - [15047724](https://www.openstreetmap.org/relation/15047724)
