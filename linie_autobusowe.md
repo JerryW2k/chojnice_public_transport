@@ -58,12 +58,16 @@
     [15054134](https://www.openstreetmap.org/relation/15054134)
 
 ## [Linia 7](https://www.openstreetmap.org/relation/15050556)
-  - [15050515](https://www.openstreetmap.org/relation/15050515)
-  - [15050414](https://www.openstreetmap.org/relation/15050414)
+  - Kierunek 1 (Charzykowy-Hotel -> Zakładowa-Pętla)
+    - [15050515](https://www.openstreetmap.org/relation/15050515)
+  - Kierunek 2 (Zakładowa-Pętla -> Charzykowy-Hotel)
+    - [15050414](https://www.openstreetmap.org/relation/15050414)
 
 ## [Linia 7A](https://www.openstreetmap.org/relation/15050555)
-  - [15050536](https://www.openstreetmap.org/relation/15050536)
-  - [15050404](https://www.openstreetmap.org/relation/15050404)
+  - Kierunek 1 (Charzykowy-Hotel -> Osiedle 700-lecia -> Zakładowa-Pętla)
+    - [15050536](https://www.openstreetmap.org/relation/15050536)
+  - Kierunek 2 (Zakładowa-Pętla -> Osiedle 700-lecia -> Charzykowy-Hotel)
+    - [15050404](https://www.openstreetmap.org/relation/15050404)
 
 ## Linia 8
   - [16730546](https://www.openstreetmap.org/relation/16730546)
