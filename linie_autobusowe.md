@@ -5,8 +5,10 @@
   - [15047724](https://www.openstreetmap.org/relation/15047724)
 
 ## Linia 2
-  - [16730742](https://www.openstreetmap.org/relation/16730742)
-  - [16730607](https://www.openstreetmap.org/relation/16730607)
+  - Kierunek 1 (Silno -> Czartołomie)
+    - [16730742](https://www.openstreetmap.org/relation/16730742)
+  - Kierunek 2 (Czartołomie -> Silno)
+    -  [16730607](https://www.openstreetmap.org/relation/16730607)
 
 ## Linia 3
   - Kierunek 1 (Sukienników -> Nowa Cerkiew)
