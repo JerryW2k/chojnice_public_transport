@@ -52,7 +52,7 @@
     [15051281](https://www.openstreetmap.org/relation/15051281)
     [15051084](https://www.openstreetmap.org/relation/15051084)
 
-  - Kierunek 2 (Ciechocin - > Chojnice)
+  - Kierunek 2 (Ciechocin -> Chojnice)
     - [15051280](https://www.openstreetmap.org/relation/15051280)
     [15054242](https://www.openstreetmap.org/relation/15054242)
     [15054134](https://www.openstreetmap.org/relation/15054134)
@@ -90,13 +90,13 @@
    [15057946](https://www.openstreetmap.org/relation/15057946)  
 
 ## [Linia 1A](https://www.openstreetmap.org/relation/15094121)
-  - Kierunek 1 (Charzykowy-Szkoła => Kopernica)
+  - Kierunek 1 (Charzykowy-Szkoła -> Kopernica)
     - [15094118](https://www.openstreetmap.org/relation/15094118)
-  - Kierunek 2 (Kopernica => Charzykowy-Szkoła)
+  - Kierunek 2 (Kopernica -> Charzykowy-Szkoła)
     - [15094119](https://www.openstreetmap.org/relation/15094119)
-  - Kierunek 3 (Plac Jagielloński => Kopernica)
+  - Kierunek 3 (Plac Jagielloński -> Kopernica)
     - [15094120](https://www.openstreetmap.org/relation/15094120)
 
 ## Linia 8A
-  - Kierunek 1 (Angowicka Baza MZK => Warszawska-Dworzec)
+  - Kierunek 1 (Angowicka Baza MZK -> Warszawska-Dworzec)
     - [15050747](https://www.openstreetmap.org/relation/15050747)
