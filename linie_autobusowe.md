@@ -70,8 +70,10 @@
     - [15050404](https://www.openstreetmap.org/relation/15050404)
 
 ## Linia 8
-  - [16730546](https://www.openstreetmap.org/relation/16730546)
-  - [16730492](https://www.openstreetmap.org/relation/16730492)
+  - Kierunek 1 (Topole -> Brama Pomorza)
+    - [16730546](https://www.openstreetmap.org/relation/16730546)
+  - Kierunek 2 (Brama Pomorza -> Topole)
+    - [16730492](https://www.openstreetmap.org/relation/16730492)
 
 ## Linia 10
   - [16787946](https://www.openstreetmap.org/relation/16787946)
