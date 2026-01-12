@@ -46,6 +46,12 @@
     [15070192](https://www.openstreetmap.org/relation/15070192)
     [15070159](https://www.openstreetmap.org/relation/15070159)
 
+## [Linia 5](https://www.openstreetmap.org/relation/15050556)
+  - Kierunek 1 (Charzykowy-Hotel -> Zakładowa-Pętla)
+    - [15050515](https://www.openstreetmap.org/relation/15050515)
+  - Kierunek 2 (Zakładowa-Pętla -> Charzykowy-Hotel)
+    - [15050414](https://www.openstreetmap.org/relation/15050414)
+
 ## [Linia 6](https://www.openstreetmap.org/relation/15051292)
   - Kierunek 1 (Chojnice -> Ciechocin)
     - [15050987](https://www.openstreetmap.org/relation/15050987)
@@ -57,13 +63,7 @@
     [15054242](https://www.openstreetmap.org/relation/15054242)
     [15054134](https://www.openstreetmap.org/relation/15054134)
 
-## [Linia 7](https://www.openstreetmap.org/relation/15050556)
-  - Kierunek 1 (Charzykowy-Hotel -> Zakładowa-Pętla)
-    - [15050515](https://www.openstreetmap.org/relation/15050515)
-  - Kierunek 2 (Zakładowa-Pętla -> Charzykowy-Hotel)
-    - [15050414](https://www.openstreetmap.org/relation/15050414)
-
-## [Linia 7A](https://www.openstreetmap.org/relation/15050555)
+## [Linia 7](https://www.openstreetmap.org/relation/15050555)
   - Kierunek 1 (Charzykowy-Hotel -> Osiedle 700-lecia -> Zakładowa-Pętla)
     - [15050536](https://www.openstreetmap.org/relation/15050536)
   - Kierunek 2 (Zakładowa-Pętla -> Osiedle 700-lecia -> Charzykowy-Hotel)
@@ -81,7 +81,7 @@
   - Kierunek 2 (Melanówek -> Klawkowo Wieś) 
     - [16787947](https://www.openstreetmap.org/relation/16787947)
 
-## [Linia LN](https://www.openstreetmap.org/relation/15061176)
+## [Linia 11](https://www.openstreetmap.org/relation/15061176)
   - Kierunek 1 (Doręgowice -> Warszawska-Dworzec 
     - [15054639](https://www.openstreetmap.org/relation/15054639)
     [15058065](https://www.openstreetmap.org/relation/15058065)
