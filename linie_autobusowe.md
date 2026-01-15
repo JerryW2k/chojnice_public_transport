@@ -89,14 +89,6 @@
     - [15058052](https://www.openstreetmap.org/relation/15058052)
    [15057946](https://www.openstreetmap.org/relation/15057946)  
 
-## [Linia 1A](https://www.openstreetmap.org/relation/15094121)
-  - Kierunek 1 (Charzykowy-Szkoła -> Kopernica)
-    - [15094118](https://www.openstreetmap.org/relation/15094118)
-  - Kierunek 2 (Kopernica -> Charzykowy-Szkoła)
-    - [15094119](https://www.openstreetmap.org/relation/15094119)
-  - Kierunek 3 (Plac Jagielloński -> Kopernica)
-    - [15094120](https://www.openstreetmap.org/relation/15094120)
-
 ## Linia 8A
   - Kierunek 1 (Angowicka Baza MZK -> Warszawska-Dworzec)
     - [15050747](https://www.openstreetmap.org/relation/15050747)
