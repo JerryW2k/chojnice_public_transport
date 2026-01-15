@@ -4,4 +4,4 @@
  
   - Kierunek 2 (Warszawska-Dworzec -> Doręgowice)
     - [15058052](https://www.openstreetmap.org/relation/15058052)
-    - [15057946](https://www.openstreetmap.org/relation/15057946)  
+    - [15057946](https://www.openstreetmap.org/relation/15057946)  - do usunięcia
