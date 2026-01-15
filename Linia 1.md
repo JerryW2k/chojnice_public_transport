@@ -8,3 +8,4 @@
   - Towarowa/Dworzec PKS/PKP A => Małe Swornegacie-Pętla C [20084855](https://www.openstreetmap.org/relation/20084855)
   - Swornegacie C => Warszawska-Dworzec A [20086919](https://www.openstreetmap.org/relation/20086919)
   - Swornegacie C => Towarowa/Dworzec PKS/PKP A [20086938](https://www.openstreetmap.org/relation/20086938)
+  - Charzykowy-Rondo B => Warszawska-Dworzec A [20087003](https://www.openstreetmap.org/relation/20087003)
