@@ -6,3 +6,4 @@
   - Towarowa/Dworzec PKS/PKP A => Funka-MIKOMANIA B [20084117](https://www.openstreetmap.org/relation/20084117)
   - Towarowa/Dworzec PKS/PKP A => Charzykowy-Spółdzielnia B [20084829](https://www.openstreetmap.org/relation/20084829)
   - Towarowa/Dworzec PKS/PKP A => Małe Swornegacie-Pętla C [20084855](https://www.openstreetmap.org/relation/20084855)
+  - Swornegacie C => Warszawska-Dworzec A [20086919](https://www.openstreetmap.org/relation/20086919)
