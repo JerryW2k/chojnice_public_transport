@@ -8,3 +8,4 @@
   - Swornegacie C => Towarowa/Dworzec PKS/PKP A [20086938](https://www.openstreetmap.org/relation/20086938)
   - Charzykowy-Rondo B => Warszawska-Dworzec A [20087003](https://www.openstreetmap.org/relation/20087003)
   - Swornegacie C => Plac Św. Jerzego A [20087025](https://www.openstreetmap.org/relation/20087025)
+  - Funka-MIKOMANIA B => Towarowa/Dworzec PKS/PKP A [20110489](https://www.openstreetmap.org/relation/20110489)
